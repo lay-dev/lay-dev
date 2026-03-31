@@ -1,16 +1,29 @@
-## Hi there 👋
+# Bonjour, je suis Mohammed LAYELMAM 👋
 
-<!--
-**lay-dev/lay-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## À propos de moi
+Je suis expert en SIG, GeoAI, télédétection et Smart Cities.  
+Je partage ici des projets, des scripts, des ressources pédagogiques et des cas pratiques pour aider les étudiants et les professionnels à progresser dans le domaine géospatial.
 
-Here are some ideas to get you started:
+## Ce que vous trouverez sur mon GitHub
+- Projets SIG et GeoAI
+- Scripts Python pour l’analyse spatiale
+- Exercices et travaux pratiques
+- Ressources pour étudiants
+- Projets liés à l’urbanisme et à la télédétection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Domaines d’intérêt
+- GIS
+- GeoAI
+- Remote Sensing
+- Smart Cities
+- Urban Planning
+- Spatial Data Science
+
+## Liens utiles
+- Community: https://societiz.com/communities/geointelligence/
+- Website: https://formasig.com
+- LinkedIn: ajoute ton lien ici
+- YouTube: ajoute ton lien ici
+
+## Objectif
+Créer un espace de partage, d’apprentissage et de collaboration autour des technologies géospatiales.

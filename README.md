@@ -21,9 +21,10 @@ Je partage ici des projets, des scripts, des ressources pédagogiques et des cas
 
 ## Liens utiles
 - Community: https://societiz.com/communities/geointelligence/
+- Profile : https://layelmam.com
 - Website: https://formasig.com
-- LinkedIn: ajoute ton lien ici
-- YouTube: ajoute ton lien ici
+- LinkedIn:https://www.linkedin.com/in/layelmam/
+- YouTube: https://www.youtube.com/@FormaSIG
 
 ## Objectif
 Créer un espace de partage, d’apprentissage et de collaboration autour des technologies géospatiales.

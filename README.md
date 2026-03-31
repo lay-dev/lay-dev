@@ -1,17 +1,17 @@
-# Bonjour, je suis Mohammed LAYELMAM 👋
+# Hello, I’m Mohammed LAYELMAM 👋
 
-## À propos de moi
-Je suis expert en SIG, GeoAI, télédétection et Smart Cities.  
-Je partage ici des projets, des scripts, des ressources pédagogiques et des cas pratiques pour aider les étudiants et les professionnels à progresser dans le domaine géospatial.
+## About Me
+I am an expert in GIS, GeoAI, Remote Sensing, and Smart Cities.  
+I share projects, scripts, learning resources, and real-world use cases to help students and professionals grow in the geospatial field.
 
-## Ce que vous trouverez sur mon GitHub
-- Projets SIG et GeoAI
-- Scripts Python pour l’analyse spatiale
-- Exercices et travaux pratiques
-- Ressources pour étudiants
-- Projets liés à l’urbanisme et à la télédétection
+## What You Will Find on My GitHub
+- GIS & GeoAI projects
+- Python scripts for spatial analysis
+- Exercises and hands-on practices
+- Educational resources for students
+- Projects related to urban planning and remote sensing
 
-## Domaines d’intérêt
+## Areas of Interest
 - GIS
 - GeoAI
 - Remote Sensing
@@ -19,12 +19,12 @@ Je partage ici des projets, des scripts, des ressources pédagogiques et des cas
 - Urban Planning
 - Spatial Data Science
 
-## Liens utiles
+## Useful Links
 - Community: https://societiz.com/communities/geointelligence/
-- Profile : https://layelmam.com
+- Profile: https://layelmam.com
 - Website: https://formasig.com
-- LinkedIn:https://www.linkedin.com/in/layelmam/
+- LinkedIn: https://www.linkedin.com/in/layelmam/
 - YouTube: https://www.youtube.com/@FormaSIG
 
-## Objectif
-Créer un espace de partage, d’apprentissage et de collaboration autour des technologies géospatiales.
+## Objective
+To build a space for sharing, learning, and collaboration around geospatial technologies.

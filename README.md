@@ -47,7 +47,7 @@ Building GeoAI Ecosystem
 
 ---
 
-# 🧠 About Me
+# About Me
 
 I am a **GeoAI Expert and Smart Cities specialist** with over 17 years of experience in:
 
@@ -62,49 +62,49 @@ I am a **GeoAI Expert and Smart Cities specialist** with over 17 years of experi
 
 ---
 
-# 🚀 What I’m Building
+# What I’m Building
 
-### 🏙️ Territorial Intelligence Platform
+### Territorial Intelligence Platform
 - AI-powered decision support system for urban planning  
 - Integration of GeoAI, RAG, and spatial analysis  
 - Real-world implementation (Urban Agency - Rabat Salé)
 
 ---
 
-### 🤖 AI Regulatory Assistant
+### AI Regulatory Assistant
 - Intelligent analysis of urban laws and regulations  
 - Automated responses for urban queries  
 - NRU (Note de Renseignements Urbanistiques) automation  
 
 ---
 
-### 🌐 Geoportail 2D/3D
+### Geoportail 2D/3D
 - Interactive geospatial platform  
 - Urban planning data visualization  
 - Investment and territorial insights  
 
 ---
 
-# 🛠️ Tech Stack
+# Tech Stack
 
-### 🌍 Geospatial
+### Geospatial
 - ArcGIS Enterprise / ArcGIS Online  
 - QGIS  
 - PostGIS  
 
-### 🤖 AI & Data
+### AI & Data
 - Python / GeoPandas  
 - Machine Learning / GeoAI  
 - RAG (Retrieval Augmented Generation)  
 
-### ⚙️ Development
+### Development
 - React / Vite  
 - Node.js / Express  
 - PostgreSQL  
 
 ---
 
-# 📊 Featured Projects
+# Featured Projects
 
 🔹 AI Urban Assistant  
 🔹 Geoportail AURS  
@@ -113,7 +113,7 @@ I am a **GeoAI Expert and Smart Cities specialist** with over 17 years of experi
 
 ---
 
-# 🎓 GeoAI Community
+# GeoAI Community
 
 🚀 I created a community to help professionals and students master GIS & GeoAI:
 
@@ -130,11 +130,11 @@ I am a **GeoAI Expert and Smart Cities specialist** with over 17 years of experi
 
 ---
 
-# 📺 YouTube Channel
+# YouTube Channel
 
-🎥 I share tutorials, case studies, and real-world applications:
+I share tutorials, case studies, and real-world applications:
 
-👉 https://www.youtube.com/
+👉 https://www.youtube.com/@FormaSIG
 
 ### Content includes:
 - GIS tutorials (ArcGIS / QGIS)
@@ -146,7 +146,7 @@ I am a **GeoAI Expert and Smart Cities specialist** with over 17 years of experi
 
 ---
 
-# 📈 GitHub Stats
+# GitHub Stats
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=lay-dev&show_icons=true&theme=radical" />
@@ -158,7 +158,7 @@ I am a **GeoAI Expert and Smart Cities specialist** with over 17 years of experi
 
 ---
 
-# 🤝 Let's Connect
+# Let's Connect
 
 - 🌐 Website: https://formasig.com  
 - 💼 LinkedIn: https://www.linkedin.com  
@@ -166,7 +166,7 @@ I am a **GeoAI Expert and Smart Cities specialist** with over 17 years of experi
 
 ---
 
-# ⚡ Vision
+# Vision
 
 > The future is not GIS.  
 > The future is **GeoAI-powered Territorial Intelligence**

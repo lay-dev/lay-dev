@@ -5,15 +5,6 @@
 🚀 Building the future of <b>Territorial Intelligence</b> with AI & Geospatial Data
 </p>
 
----
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=lay-dev&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/lay-dev?label=FOLLOWERS&style=for-the-badge&color=1f6feb" />
-<img src="https://img.shields.io/github/stars/lay-dev?label=TOTAL+STARS&style=for-the-badge&color=f39c12" />
-</p>
-
----
 
 <p align="center">
 <img src="https://img.shields.io/badge/GeoAI-Expert-0A66C2?style=for-the-badge" />

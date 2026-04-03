@@ -1,4 +1,4 @@
-<h1 align="center">🌍 Mohammed LAYELMAM</h1>
+<h1 align="center">Mohammed LAYELMAM</h1>
 <h3 align="center">GeoAI Expert | Smart Cities | GIS & Spatial Intelligence</h3>
 
 <p align="center">

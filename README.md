@@ -1,30 +1,42 @@
-# Hello, I’m Mohammed LAYELMAM 👋
+<h1 align="center">🌍 Mohammed LAYELMAM</h1>
+<h3 align="center">GeoAI Expert | Smart Cities | GIS & Spatial Intelligence</h3>
 
-## About Me
-I am an expert in GIS, GeoAI, Remote Sensing, and Smart Cities.  
-I share projects, scripts, learning resources, and real-world use cases to help students and professionals grow in the geospatial field.
+<p align="center">
+🚀 Building the future of <b>Territorial Intelligence</b> with AI & Geospatial Data
+</p>
 
-## What You Will Find on My GitHub
-- GIS & GeoAI projects
-- Python scripts for spatial analysis
-- Exercises and hands-on practices
-- Educational resources for students
-- Projects related to urban planning and remote sensing
+---
 
-## Areas of Interest
-- GIS
-- GeoAI
-- Remote Sensing
-- Smart Cities
-- Urban Planning
-- Spatial Data Science
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=lay-dev&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+<img src="https://img.shields.io/github/followers/lay-dev?label=FOLLOWERS&style=for-the-badge&color=1f6feb" />
+<img src="https://img.shields.io/github/stars/lay-dev?label=TOTAL+STARS&style=for-the-badge&color=f39c12" />
+</p>
 
-## Useful Links
-- Community: https://societiz.com/communities/geointelligence/
-- Profile: https://layelmam.com
-- Website: https://formasig.com
-- LinkedIn: https://www.linkedin.com/in/layelmam/
-- YouTube: https://www.youtube.com/@FormaSIG
+---
 
-## Objective
-To build a space for sharing, learning, and collaboration around geospatial technologies.
+<p align="center">
+<img src="https://img.shields.io/badge/GeoAI-Expert-0A66C2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Smart%20Cities-Innovation-16a085?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GIS-17%2B%20Years-8e44ad?style=for-the-badge" />
+<img src="https://img.shields.io/badge/FormaSIG-Founder-e74c3c?style=for-the-badge" />
+</p>
+
+---
+
+<p align="center">
+🎯 +1000 Learners Trained &nbsp;&nbsp; | &nbsp;&nbsp;
+🌍 Projects in Morocco & Africa &nbsp;&nbsp; | &nbsp;&nbsp;
+🚀 Building GeoAI Ecosystem
+</p>
+
+---
+
+<p align="center">
+<a href="https://societiz.com/communities/geointelligence/">
+<img src="https://img.shields.io/badge/🚀%20Join%20GeoAI%20Community-Start%20Now-blue?style=for-the-badge" />
+</a>
+<a href="https://formasig.com">
+<img src="https://img.shields.io/badge/🌐%20Website-FormaSIG-black?style=for-the-badge" />
+</a>
+</p>

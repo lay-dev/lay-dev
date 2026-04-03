@@ -2,7 +2,7 @@
 <h3 align="center">GeoAI Expert | Smart Cities | GIS & Spatial Intelligence</h3>
 
 <p align="center">
-🚀 Building the future of <b>Territorial Intelligence</b> with AI & Geospatial Data
+Building the future of <b>Territorial Intelligence</b> with AI & Geospatial Data
 </p>
 
 

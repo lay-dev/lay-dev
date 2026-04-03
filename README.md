@@ -2,11 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:16a085&height=220&section=header&text=GeoAI%20%7C%20Smart%20Cities%20%7C%20Territorial%20Intelligence&fontSize=30&fontColor=ffffff" />
 </p>
 
-<h1 align="center">🌍 Mohammed LAYELMAM</h1>
+<h1 align="center">Mohammed LAYELMAM</h1>
 <h3 align="center">GeoAI Expert | Smart Cities | GIS & Spatial Intelligence</h3>
 
 <p align="center">
-🚀 Building the future of <b>Territorial Intelligence</b> using AI & Geospatial Data
+Building the future of <b>Territorial Intelligence</b> using AI & Geospatial Data
 </p>
 
 ---

@@ -29,9 +29,9 @@ Building the future of <b>Territorial Intelligence</b> using AI & Geospatial Dat
 ---
 
 <p align="center">
-🎯 +1000 Learners Trained &nbsp;&nbsp; | &nbsp;&nbsp;
-🌍 Projects in Morocco & Africa &nbsp;&nbsp; | &nbsp;&nbsp;
-🚀 Building GeoAI Ecosystem
++1000 Learners Trained &nbsp;&nbsp; | &nbsp;&nbsp;
+Projects in Morocco & Africa &nbsp;&nbsp; | &nbsp;&nbsp;
+Building GeoAI Ecosystem
 </p>
 
 ---
